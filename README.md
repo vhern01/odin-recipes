@@ -1,0 +1,2 @@
+# odin-recipes
+random project
